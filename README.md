@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing full-stack development skills 
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-portfolio-url.vercel.app) <!-- Update with your actual deployment URL -->
+[View Live Portfolio](http://anomusly.vercel.app/)
 
 ## 📋 Table of Contents
 
@@ -159,8 +159,8 @@ Add new projects to the `portfolioProjects` array in `app/_lib/constants.ts`:
   description: "Detailed project description",
   imageUrl: "/imgs/projects/project-image.png",
   techStack: ["React", "Node.js", "MongoDB"],
-  liveDemoUrl: "https://project-demo.com",
-  sourceCodeUrl: "https://github.com/username/project"
+  liveDemoUrl: "http://anomusly.vercel.app/",
+  sourceCodeUrl: "https://github.com/HassanXTech/V1-Portfolio"
 }
 ```
 
@@ -186,7 +186,7 @@ The project can be deployed to any platform that supports Next.js:
 
 - Email: hsnshafique090@gmail.com
 - GitHub: [@HassanXTech](https://github.com/HassanXTech)
-- Portfolio: [Live Demo](https://your-portfolio-url.vercel.app)
+- Portfolio: [Live Demo](http://anomusly.vercel.app)
 
 ## 📄 License
 
