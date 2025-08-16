@@ -1,3 +1,5 @@
+<img width="1903" height="1078" alt="image" src="https://github.com/user-attachments/assets/9310a65d-fcaf-4828-b8cb-c680e6c29d07" />
+
 # Hassan's Portfolio Website
 
 A modern, responsive portfolio website showcasing full-stack development skills and projects. Built with Next.js, TypeScript, and Tailwind CSS, featuring smooth animations and a clean, professional design.
